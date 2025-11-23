@@ -28,7 +28,7 @@ border: 7px solid black;
 padding: 10px 40px;
 width: 55%;
 }
-#introduction h2,p {
+#introduction h2,#introduction p {
     background-color: #606c38;
 }
 
