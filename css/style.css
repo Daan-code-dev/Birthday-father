@@ -1,8 +1,8 @@
 body {
-    background-color: green;
+    background-image: url("https://raw.githubusercontent.com/Daan-code-dev/Birthday-father/main/confetti-6887206_640.webp");
         background-size: cover;
-    color:white;
-    text-align: center;
+        color: red;
+c    text-align: center;
 }
 #test {
     margin-top: 200px;
