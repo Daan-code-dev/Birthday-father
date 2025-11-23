@@ -25,7 +25,7 @@ h1 {
 display: inline-block;
 background-color:#606c38;
 border: 7px solid black;
-padding: 10px, 40px
+padding: 10px, 40px;
 width: 55%;
 }
 
@@ -38,10 +38,7 @@ margin-bottom: 400px;
 }
 
 #box {
-padding-top: 30px;
-padding-bottom: 30px;
-padding-left: 15px;
-padding-right: 15px;
+padding: 30px, 15px;
 border: 5px solid blue;
 background-color: red;
 color: white;
@@ -49,10 +46,7 @@ margin-bottom: 20px;
 } 
 
 #box:hover {
-padding-top: 40px;
-padding-bottom: 40px;
-padding-left: 20px;
-padding-right: 20px;
+padding: 40px, 20px;
 background-color: blue;
 border: 5px solid red;
 color: black;
