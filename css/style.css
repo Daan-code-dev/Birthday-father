@@ -1,12 +1,15 @@
 * {
-   background-color: white;
+   background-color: #606c38;
    color: black;
+   text-align: center;
 }
 #introduction {
 display: inline-block;
-background-color: purple;
-border: 5px solid red;
+background-color:#fefae0;
+border: 5px solid black;
 padding: 10px;
+margin-left: 75px
+margin-right: 75px;
 }
 
 #show-off {
