@@ -2,7 +2,13 @@
    background-color: #fefae0;
    color: black;
    text-align: center;
+   #gefeliciteerd
 }
+ #gefeliciteerd{
+font-size: 50px:
+font-family: sans-serif;
+ }
+
 #introduction {
 display: inline-block;
 background-color:#606c38;
