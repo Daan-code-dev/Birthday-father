@@ -54,9 +54,9 @@ background-image: url("");
 }
 
 #linear-gradient-show-off {
-background-image: linear-gradient(to right, red, yellow);
+background: linear-gradient(to right, red, yellow);
 }
 
 #radial-gradient-show-off {
-background-image: radial-gradient(from center to nearest side, yellow, blue);
+background: radial-gradient(from center to nearest side, yellow, blue);
 }
