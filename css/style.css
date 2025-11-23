@@ -1,9 +1,62 @@
-body {
-    background-image: url("https://raw.githubusercontent.com/Daan-code-dev/Birthday-father/main/confetti-6887206_640.webp");
-        background-size: cover;
-        color: red;
-c    text-align: center;
+* {
+   background-color: white;
+   color: black;
 }
-#test {
-    margin-top: 200px;
+#introduction {
+display: inline-block;
+background-color: purple;
+border: 5px solid red;
+padding: 10px;
+}
+
+#show-off {
+display: inline-block;
+}
+
+#intro-show-off {
+margin-bottom: 400px;
+}
+
+#box {
+padding-top: 30px;
+padding-bottom: 30px;
+paddding-left: 15px;
+padding-right: 15px;
+border: 5px solid blue;
+background-color: red;
+color: white;
+margin-botom: 20px;
+} 
+
+#box:hover {
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 20px;
+padding-right: 20px;
+background-color: blue;
+border: 5px solid red;
+color: black;
+}
+#text-left {
+text-align: left;
+background-color: lightblue;
+}
+
+#text-right {
+text-align: right;
+background-color: lightgreen;
+}
+#show-off h1 {
+font-size: 40px;
+color: purple;
+/*Add a link of a cat*/
+background-image: url("");
+}
+
+#linear-gradient-show-off {
+background-image: linear-gradient(to right, red, yellow);
+}
+
+#radial-gradient-show-off {
+background-image: radial-gradient(from center to nearest side, yellow, blue);
 }
