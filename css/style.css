@@ -21,10 +21,7 @@ h1 {
 display: inline-block;
 background-color:#606c38;
 border: 5px solid black;
-padding-top: 10px;
-padding-bottom: 10px
-padding-left: 40px
-padding-right: 40px
+padding: 10px, 40px
 width: 55%;
 }
 
