@@ -75,5 +75,5 @@ color: black;
 #radial-gradient {
 display: inline-block;
 background: radial-gradient(circle, red, yellow);
-width: 45%
+width: 45%;
 }
