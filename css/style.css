@@ -71,11 +71,11 @@ color: black;
     background: linear-gradient(to right, red, green, purple,  yellow );
     width: 40%;
     margin-right: 20px;
-    height: 200px;
+    height: 300px;
 }
 #radial-gradient {
 display: inline-block;
 background: radial-gradient(circle, red, green, purple, yellow);
 width: 40%;
-height: 200px;
+height: 300px;
 }
