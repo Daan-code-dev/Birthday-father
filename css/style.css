@@ -68,7 +68,7 @@ color: black;
 
 #linear-gradient {
     display: inline-block;
-    background: linear-gradient(to right, red, green, purple,  yellow );
+    background: linear-gradient(to right, red, green, purple, yellow );
     width: 45%;
     margin-right: 20px;
     height: 300px;
