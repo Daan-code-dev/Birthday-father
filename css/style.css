@@ -51,7 +51,7 @@ margin-bottom: 20px;
 #box:hover {
 padding: 40px 20px;
 background-color: #bc6c25;
-border: 5px solid black
+border: 5px solid black;
 color: black;
 }
 #text-left {
