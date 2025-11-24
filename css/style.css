@@ -86,4 +86,5 @@ height: 300px;
   border-right: 10px dashed green;
   border-bottom: 10px dotted blue;
   border-left: 10px double purple;
+  padding: 10px;
 }
