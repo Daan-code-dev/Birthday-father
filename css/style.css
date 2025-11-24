@@ -56,27 +56,16 @@ color: black;
 }
 #text-left {
 text-align: left;
-background-color: #a3b18a;
+background-color: #3a5a40;
 color: black;
 }
 
 #text-right {
 text-align: right;
-background-color: #a3b18a;
+background-color: #3a5a40;
 color: black;
 }
 
-#show-off h1 {
-font-size: 40px;
-color: purple;
-/*Add a link of a cat*/
-background-image: url("");
-}
-
-#linear-gradient-show-off {
-background: linear-gradient(to right, red, yellow);
-}
-
-#radial-gradient-show-off {
-background: radial-gradient(from center to nearest side, yellow, blue);
+#linear-gradient {
+    background: radial-gradient(to right, )
 }
