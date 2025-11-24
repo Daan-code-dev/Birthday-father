@@ -67,5 +67,13 @@ color: black;
 }
 
 #linear-gradient {
-    background: radial-gradient(to right, )
+    display: inline-block;
+    background: radial-gradient(to right, red, yellow );
+    width: 45%;
+    margin-right: 20px;
+}
+#radial-gradient {
+display: inline-block;
+background: radial-gradient(circle, red, yellow);
+width: 45%
 }
