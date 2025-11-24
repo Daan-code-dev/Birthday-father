@@ -68,14 +68,14 @@ color: black;
 
 #linear-gradient {
     display: inline-block;
-    background: linear-gradient(to right, red, yellow );
+    background: linear-gradient(to right, red, green, purple,  yellow );
     width: 40%;
     margin-right: 20px;
     height: 200px;
 }
 #radial-gradient {
 display: inline-block;
-background: radial-gradient(circle, red, yellow);
+background: radial-gradient(circle, red, green, purple, yellow);
 width: 40%;
 height: 200px;
 }
