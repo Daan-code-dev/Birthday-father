@@ -92,10 +92,10 @@ height: 300px;
 
 .button-fake:hover {
     padding: 15px 30px;
-    color: #bb3e03; 
+    color: orange;
 }
 .button-fake:visited {
-    background-color: #9d0208;
+    background-color: orange;
     color: white;
 }
     .button-fake {
