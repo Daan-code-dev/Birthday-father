@@ -90,9 +90,9 @@ height: 300px;
 }
 .button-fake {
 display: inline-block;
-padding: 20px;
-margin: 20px;
-border-radius: 20px;
+padding: 10px, 30px;
+margin: 10x;
+border-radius: 25px;
 background-color: orange;
 }
 figcaption {
