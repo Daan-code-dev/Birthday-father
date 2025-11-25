@@ -89,14 +89,7 @@ height: 300px;
   border-left: 10px double purple;
   padding: 10px;
 }
-.button-fake {
-display: inline-block;
-padding: 10px 20px;
-margin: 10px;
-border-radius: 25px;
-background-color: orange;
 
-}
 .button-fake:hover {
     padding: 15px 30px;
     color: #bb3e03; 
@@ -105,6 +98,15 @@ background-color: orange;
     background-color: #9d0208;
     color: white;
 }
+    .button-fake {
+display: inline-block;
+padding: 10px 20px;
+margin: 10px;
+border-radius: 25px;
+background-color: orange;
+
+}
+
 figcaption {
     font-size: 35px;
     font-weight: bold;
