@@ -6,46 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Birthday present for my father</title>
     <link rel="stylesheet" href="css/style.css">
-    <style>
-body { font-family: Arial, sans-serif; padding: 20px; }
-#content { display: none; }
-</style>
   </head>
   <body>
-    
-
-
-<h2>Vul de 6-cijferige code in:</h2>
-<input id="codeInput" type="text" maxlength="6" />
-<button onclick="checkCode()">Inloggen</button>
-
-
-<p id="error" style="color:red;"></p>
-
-
-<div id="content">
-<h1>Welkom!</h1>
-<p>Dit is de verborgen webpagina.</p>
-</div>
-
-
-<script>
-function checkCode() {
-const correct = "834927"; // Jouw code hier
-const input = document.getElementById("codeInput").value;
-const error = document.getElementById("error");
-const content = document.getElementById("content");
-
-
-if (input === correct) {
-error.textContent = "";
-content.style.display = "block";
-} else {
-error.textContent = "Foute code.";
-content.style.display = "none";
-}
-}
-</script>
     <audio controls autoplay loop>
       <source src="audio/happy-birthday-357371.mp3" type="audio/mpeg">
     </audio>
