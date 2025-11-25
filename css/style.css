@@ -27,10 +27,10 @@ background-color:#606c38;
 border: 7px solid black;
 padding: 10px 40px;
 width: 55%;
-color: white;
 }
 #introduction h2, #introduction p {
     background-color: #606c38;
+    color: whitel
 }
 
 #show-off {
