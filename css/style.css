@@ -115,3 +115,14 @@ figcaption {
     margin: auto;
  width: 50%;
 }
+.back-to-page {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: lightblue;
+    color: black;
+}
+.back-to-page:hover {
+    padding: 15px 30px;
+}
