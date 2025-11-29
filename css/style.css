@@ -58,13 +58,14 @@ color: black;
 #text-left {
 text-align: left;
 background-color: #588157;
-color: withe;
+color: white;
 }
 
 #text-right {
 text-align: right;
 background-color: #588157;
-color: white;
+
+color: white;chang
 }
 
 #linear-gradient {
