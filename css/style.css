@@ -21,14 +21,14 @@ h1 {
     font-weight: bolder;
 }
 
-#introduction {
+#introduction-home-page {
 display: inline-block;
 background-color:#606c38;
 border: 7px solid black;
 padding: 10px 40px;
 width: 55%;
 }
-#introduction h2, #introduction p {
+#introduction-home-page h2, #introduction-home-page p {
     background-color: #606c38;
     color: white;
 }
