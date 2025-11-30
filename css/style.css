@@ -126,3 +126,6 @@ figcaption {
 .back-to-page:hover {
     padding: 15px 30px;
 }
+img {
+    dispay: inline-block;
+}t
