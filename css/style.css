@@ -129,3 +129,9 @@ figcaption {
 img {
     dispay: inline-block;
 }t
+.foto-page-2 {
+    border: 10px solid black;
+    width: 40%;
+    height: 100px;
+    display: flex;
+}
