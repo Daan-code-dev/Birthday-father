@@ -129,8 +129,8 @@ figcaption {
 img {
     display: inline-block;
 }
-.foto-page-2 {
-    border: 10px solid black;
+#container-page-2 img {
+    border: 5px solid black;
     width: 40%;
     height: 40%;
     display: flex;
