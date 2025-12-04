@@ -131,7 +131,7 @@ img {
 }
 #container {
     display: flex;
-    gap: 50px;
+    gap: 200px;
 }
 #container-page-2 img {
     border: 5px solid black;
