@@ -132,6 +132,7 @@ img {
 #container-page-2{
     display: flex;
     gap: 50px;
+    flex-direction: colum;
 }
 #container-page-2 img {
     border: 5px solid black;
