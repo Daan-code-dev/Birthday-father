@@ -132,13 +132,13 @@ img {
 #container-page-2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 17%;
+    gap: 100px;
 }
 
 #container-page-2 img, #container-page-2 video {
     border: 5px solid black;
     width: 83%;
-    height: 83%;          
+    height: auto;          
     object-fit: cover;       
     border-radius: 10px;    
 }
