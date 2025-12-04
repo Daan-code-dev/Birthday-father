@@ -136,7 +136,7 @@ img {
 }
 #container-page-2 img {
     border: 5px solid black;
-    width: 48%;
+    width: width: calc(50% - 25px);
     height: 48%;
    
 }
