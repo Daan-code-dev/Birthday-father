@@ -129,9 +129,9 @@ figcaption {
 img {
     display: inline-block;
 }
-#container {
+#container-page-2{
     display: flex;
-    gap: 200px;
+    gap: 50px;
 }
 #container-page-2 img {
     border: 5px solid black;
