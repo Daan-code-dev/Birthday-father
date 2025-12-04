@@ -135,7 +135,7 @@ img {
     gap: 80px;
 }
 
-#container-page-2 img, container-page-2 video {
+#container-page-2 img, #container-page-2 video {
     border: 5px solid black;
     width: 80%;
     height: 80%;          
