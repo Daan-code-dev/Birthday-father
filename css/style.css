@@ -138,7 +138,7 @@ img {
 #container-page-2 img, #container-page-2 video {
     margin-left: 
     border: 5px solid black;
-    width: 10%;
+    width: 75%;
     height: auto;          
     object-fit: cover;       
     border-radius: 10px;    
