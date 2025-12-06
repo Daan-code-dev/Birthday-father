@@ -114,6 +114,7 @@ figcaption {
 .buttons {
     margin: auto;
  width: 50%;
+ min-width: 300px;
 }
 .back-to-page {
     display: inline-block;
@@ -139,7 +140,7 @@ img {
 #container-page-2 img,
 #container-page-2 video {
     width: 100%;        
-    max-width: 350px;  
+    max-width: 500px;  
     height: auto;
     border: 5px solid black;
     object-fit: cover;
