@@ -146,3 +146,7 @@ img {
     object-fit: cover;
     border-radius: 10px;
 }
+legend {
+    font-size: 25px;
+    font-weight: bold;
+}
