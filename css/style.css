@@ -114,7 +114,7 @@ figcaption {
 .buttons {
     margin: auto;
  width: 50%;
- min-width: 3400x;
+ min-width: 400px;
 }
 .back-to-page {
     display: inline-block;
