@@ -150,9 +150,3 @@ legend {
     font-size: 25px;
     font-weight: bold;
 }
-fieldset {
-    height: 180px;
-}
-label, input {
-height: 120px;
-}
