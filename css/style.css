@@ -150,3 +150,6 @@ legend {
     font-size: 25px;
     font-weight: bold;
 }
+fieldset {
+    height: 500px;
+}
