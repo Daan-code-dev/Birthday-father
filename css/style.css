@@ -151,7 +151,8 @@ legend {
     font-weight: bold;
 }
 button {
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: orange;
     padding: 15px 40px;
+    font-size: 18px;
 }
