@@ -150,3 +150,7 @@ legend {
     font-size: 25px;
     font-weight: bold;
 }
+button {
+    border-radius: 10px;
+    background-color: orange;
+}
