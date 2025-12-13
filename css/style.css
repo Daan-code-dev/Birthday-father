@@ -153,6 +153,5 @@ legend {
 button {
     border-radius: 10px;
     background-color: orange;
-    width: 100px;
-    height: auto;
+    padding: 15% 30%;
 }
